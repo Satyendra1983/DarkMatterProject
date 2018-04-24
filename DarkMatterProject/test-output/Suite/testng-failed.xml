@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="sampleDMProject.sampleDarkMatter">
+        <methods>
+          <include name="killProcessa"/>
+          <include name="selectEntry"/>
+          <include name="openBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="switchStatus"/>
+          <include name="addEntry"/>
+          <include name="clearEntry"/>
+        </methods>
+      </class> <!-- sampleDMProject.sampleDarkMatter -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

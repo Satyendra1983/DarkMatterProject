@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52453" started-at="2018-04-23T20:59:24Z" finished-at="2018-04-23T21:00:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52453" started-at="2018-04-23T20:59:24Z" finished-at="2018-04-23T21:00:17Z">
+      <class name="sampleDMProject.sampleDarkMatter">
+        <test-method status="PASS" signature="killProcessa()[pri:0, instance:sampleDMProject.sampleDarkMatter@e45f292]" name="killProcessa" is-config="true" duration-ms="25" started-at="2018-04-23T20:59:24Z" finished-at="2018-04-23T20:59:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcessa -->
+        <test-method status="PASS" signature="openBrowser()[pri:1, instance:sampleDMProject.sampleDarkMatter@e45f292]" name="openBrowser" duration-ms="28814" started-at="2018-04-23T20:59:24Z" finished-at="2018-04-23T20:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="addEntry()[pri:2, instance:sampleDMProject.sampleDarkMatter@e45f292]" name="addEntry" duration-ms="14312" started-at="2018-04-23T20:59:53Z" finished-at="2018-04-23T21:00:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEntry -->
+        <test-method status="PASS" signature="selectEntry()[pri:3, instance:sampleDMProject.sampleDarkMatter@e45f292]" name="selectEntry" duration-ms="1131" started-at="2018-04-23T21:00:07Z" finished-at="2018-04-23T21:00:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectEntry -->
+        <test-method status="PASS" signature="switchStatus()[pri:4, instance:sampleDMProject.sampleDarkMatter@e45f292]" name="switchStatus" duration-ms="2306" started-at="2018-04-23T21:00:09Z" finished-at="2018-04-23T21:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchStatus -->
+        <test-method status="PASS" signature="clearEntry()[pri:5, instance:sampleDMProject.sampleDarkMatter@e45f292]" name="clearEntry" duration-ms="3459" started-at="2018-04-23T21:00:11Z" finished-at="2018-04-23T21:00:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearEntry -->
+        <test-method status="PASS" signature="editEntry()[pri:6, instance:sampleDMProject.sampleDarkMatter@e45f292]" name="editEntry" duration-ms="1170" started-at="2018-04-23T21:00:14Z" finished-at="2018-04-23T21:00:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEntry -->
+        <test-method status="PASS" signature="closeBrowser()[pri:7, instance:sampleDMProject.sampleDarkMatter@e45f292]" name="closeBrowser" duration-ms="1189" started-at="2018-04-23T21:00:15Z" finished-at="2018-04-23T21:00:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- sampleDMProject.sampleDarkMatter -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
